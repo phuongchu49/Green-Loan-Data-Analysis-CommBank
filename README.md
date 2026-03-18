@@ -1,6 +1,6 @@
 # 🏦 CommBank Green Loan - Home Mortgage Data Analysis
 
-A data analysis project completed as part of the **CommBank Unlikely Match Virtual Experience Program (Task 3)**. The goal was to analyse a hypothetical dataset of 500 home mortgage borrowers to identify qualified sales leads for CommBank's **Green Loan** program - a 0.99% p.a. secured loan for renewable energy installations (solar panels, battery storage, EV chargers).
+A data analysis project completed as part of the **CommBank Unlikely Match Virtual Experience Program (Task 3)**. The goal was to analyse a hypothetical dataset of 500 home mortgage borrowers to identify qualified sales leads for CommBank's **Green Loan** program - a 0.99% p.a. secured loan for renewable energy installations (solar panels, battery storage, EV chargers). Main tool for this project is MS Excel.
 
 ---
 
