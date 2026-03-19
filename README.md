@@ -1,6 +1,8 @@
 # 🏦 CommBank Green Loan - Home Mortgage Data Analysis
 
-A data analysis project completed as part of the **CommBank Unlikely Match Virtual Experience Program (Task 3)**. The goal was to analyse a hypothetical dataset of 500 home mortgage borrowers to identify qualified sales leads for CommBank's **Green Loan** program - a 0.99% p.a. secured loan for renewable energy installations (solar panels, battery storage, EV chargers). Main tool for this project is MS Excel.
+A data analysis project completed as part of the **Commonwealth Bank You x CommBank Job Simulation (Task 3)**. The goal was to analyse a hypothetical dataset of 500 home mortgage borrowers to identify qualified sales leads for CommBank's **Green Loan** program - a 0.99% p.a. secured loan for renewable energy installations (solar panels, battery storage, EV chargers). Main tool for this project is MS Excel.
+
+Program Task Access: [Green Loan: Data Analysis](https://www.theforage.com/modules/fJYLPoeu5zJ6PCgaM/S76S4mANjKXfDqQkk)
 
 ---
 
@@ -48,7 +50,7 @@ The analysis moves from broad single-criteria filtering down to a refined set of
 
 ## 🔍 Analysis Approach
 
-The workbook is structured as a **step-by-step walkthrough** across 6 dedicated sheets:
+The workbook is structured as a **step-by-step walkthrough** across 5 dedicated sheets:
 
 ### Step 1 - Orientation
 Read every column header and document what it measures, its data type, min/max range, and its relevance to Green Loan qualification. This avoids jumping into formulas without understanding the data first.
